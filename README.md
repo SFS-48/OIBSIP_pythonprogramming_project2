@@ -22,7 +22,7 @@ The objective of this project is to build a BMI (Body Mass Index) Calculator in 
    - Formula used:  
 
      
-     BMI = Weight (kg) / (Height (m))^2
+   **  BMI = Weight (kg) / (Height (m))^2
      
 
 4. **Category Classification**  
