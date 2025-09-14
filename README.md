@@ -21,9 +21,9 @@ The objective of this project is to build a BMI (Body Mass Index) Calculator in 
 3. **BMI Calculation**  
    - Formula used:  
 
-     ```
+     
      BMI = Weight (kg) / (Height (m))^2
-     ```
+     
 
 4. **Category Classification**  
    - Underweight: BMI < 18.5  
