@@ -40,8 +40,8 @@ The objective of this project is to build a BMI (Body Mass Index) Calculator in 
 ### Tools and Technologies Used  
 - Programming Language: Python 3  
 - Libraries Used:  
-  - `time` (for delays if needed)  
-  - Standard I/O functions (`input`, `print`)  
+  - time (for delays if needed)  
+  - Standard I/O functions (input, print)  
 
 ---
 
